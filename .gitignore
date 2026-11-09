@@ -1,0 +1,9 @@
+web/node_modules/
+web/dist/assets/
+*.exe
+/vaultplay
+/bin/
+.idea/
+.vscode/
+*.sock
+/tmp/

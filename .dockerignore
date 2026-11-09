@@ -1,0 +1,9 @@
+.git
+.gitignore
+**/*_test.go
+web/node_modules
+web/dist
+*.md
+.cursor
+agent-transcripts
+**/.DS_Store
